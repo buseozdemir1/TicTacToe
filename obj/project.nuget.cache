@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d65Ba6212lw0DSmKSFrNnsmy8Kw8UewcbtniMph9bo9liyFkP5z0q9UdAuYcDlHxH8E8ym6n28OI/yZhOdeVoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ÖĞLE\\Desktop\\BAUE\\CSCALİSMALAR\\TicTacToe\\TicTacToeCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ÖĞLE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

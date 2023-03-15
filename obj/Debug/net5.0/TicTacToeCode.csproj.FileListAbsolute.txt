@@ -1,0 +1,16 @@
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\bin\Debug\net5.0\TicTacToeCode.exe
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\bin\Debug\net5.0\TicTacToeCode.deps.json
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\bin\Debug\net5.0\TicTacToeCode.runtimeconfig.json
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\bin\Debug\net5.0\TicTacToeCode.runtimeconfig.dev.json
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\bin\Debug\net5.0\TicTacToeCode.dll
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\bin\Debug\net5.0\TicTacToeCode.pdb
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\obj\Debug\net5.0\TicTacToeCode.csproj.AssemblyReference.cache
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\obj\Debug\net5.0\TicTacToeCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\obj\Debug\net5.0\TicTacToeCode.AssemblyInfoInputs.cache
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\obj\Debug\net5.0\TicTacToeCode.AssemblyInfo.cs
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\obj\Debug\net5.0\TicTacToeCode.csproj.CoreCompileInputs.cache
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\obj\Debug\net5.0\TicTacToeCode.dll
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\obj\Debug\net5.0\refint\TicTacToeCode.dll
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\obj\Debug\net5.0\TicTacToeCode.pdb
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\obj\Debug\net5.0\TicTacToeCode.genruntimeconfig.cache
+C:\Users\ÖĞLE\Desktop\BAUE\CSCALİSMALAR\TicTacToe\obj\Debug\net5.0\ref\TicTacToeCode.dll
